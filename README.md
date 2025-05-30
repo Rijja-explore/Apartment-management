@@ -15,6 +15,21 @@ A full-featured desktop application built with **Python** and **Tkinter** to hel
 
 ---
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/d6c1063f-fd30-4c75-9839-1157f00e85f2)
+![image](https://github.com/user-attachments/assets/dff81434-35eb-4d9a-8d51-dbfa23853af8)
+![image](https://github.com/user-attachments/assets/d2f5cc52-0307-4a81-afdf-352f498f3cd8)
+![image](https://github.com/user-attachments/assets/3ae34563-7c26-4506-bd83-1c7afef18406)
+![image](https://github.com/user-attachments/assets/16d9d352-4ee5-40f0-9fb5-b6fca556ef47)
+![image](https://github.com/user-attachments/assets/d06991ac-874b-4d60-9693-bd039f45f127)
+![image](https://github.com/user-attachments/assets/74b6892e-ce98-4579-8c3d-a505bb9fcb7b)
+![image](https://github.com/user-attachments/assets/0b625ddd-18f2-4720-9daa-d9407fa2c548)
+![image](https://github.com/user-attachments/assets/bded2326-2267-49f5-8ecb-9582d1aa8532)
+![image](https://github.com/user-attachments/assets/02e50057-38cd-4fd1-8e1c-bebb889c5e68)
+
+
+
+
 ## ⚙️ Technologies Used
 
 | Technology | Purpose                          |
@@ -78,6 +93,7 @@ To use the forgot password feature:
 Make sure 2FA and App Passwords are set up for Gmail.
 
 🤝 Contributing
+---
 Contributions are welcome! Here’s how to get started:
 ```bash
 # Fork the repo and clone it
@@ -88,5 +104,6 @@ git push origin feature/YourFeature
 Then open a pull request 🚀
 
 📄 License
+---
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
